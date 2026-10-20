@@ -1,19 +1,19 @@
 {
-  "version": "0.1.6",
-  "notes": "Typing Tutor v0.1.6: Production-ready UI with modern toggle switches, streamlined diagnostics card, curriculum practice lockdown on unactivated/deactivated workstations, and signed auto-update verification.",
-  "pub_date": "2026-10-20T20:02:28Z",
+  "version": "0.1.7",
+  "notes": "Typing Tutor v0.1.7: Clean production lock screen without exposed license details, interactive preferences toggles, and developer CLI runbook integration.",
+  "pub_date": "2026-10-20T20:12:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXFJQmZLNGIvZVorUkgrYXVILzFScDhxVUE2aXVSRmJ6UUJ2eGFlZFhvNnJsaFJjdVIvT01nM3VZZXdWYlFmRDIxY20rZ3JxOE0reTk3WjhZSEFwQ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI2NTQ2CWZpbGU6VHlwaW5nIFR1dG9yXzAuMS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNgpNRTB2MzUwRlpKMXVCVm9EZkdCWWMySXEwU1RYdHVuZk8ybUl4ZWZ6cEdIb2NWKzNJM3ZtVGxieU50b25FdVcvWm9ZZnBtZE4xRmlqL2RvSGpXRFpCZz09Cg==",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.6/Typing.Tutor_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXBPSFJ1MnN6V2ZORkU2VEg0MzhUWnQzam92cnhLdVVlV1BaODdtWVlGSWxyL0Z4TW0zak01VG9LbEdEZTVZT1dLZ04vOVVrVFdIYzZMY3k1WnB1WHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI3MTU4CWZpbGU6VHlwaW5nIFR1dG9yXzAuMS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNwpvTW5yanpKRDl3OHpqOGFYbUlaTE5iVllYS1VQY1E3eGtodUIzdDk0SWxGWW40QnZvNGFva0ZHTlVuaFYxK1ZycVZkRGN1eFBBN1htcVBiQ3d5Z3JCUT09Cg==",
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.7/Typing.Tutor_0.1.7_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXFJQmZLNGIvZVorUkgrYXVILzFScDhxVUE2aXVSRmJ6UUJ2eGFlZFhvNnJsaFJjdVIvT01nM3VZZXdWYlFmRDIxY20rZ3JxOE0reTk3WjhZSEFwQ3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI2NTQ2CWZpbGU6VHlwaW5nIFR1dG9yXzAuMS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNgpNRTB2MzUwRlpKMXVCVm9EZkdCWWMySXEwU1RYdHVuZk8ybUl4ZWZ6cEdIb2NWKzNJM3ZtVGxieU50b25FdVcvWm9ZZnBtZE4xRmlqL2RvSGpXRFpCZz09Cg==",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.6/Typing.Tutor_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXBPSFJ1MnN6V2ZORkU2VEg0MzhUWnQzam92cnhLdVVlV1BaODdtWVlGSWxyL0Z4TW0zak01VG9LbEdEZTVZT1dLZ04vOVVrVFdIYzZMY3k1WnB1WHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI3MTU4CWZpbGU6VHlwaW5nIFR1dG9yXzAuMS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNwpvTW5yanpKRDl3OHpqOGFYbUlaTE5iVllYS1VQY1E3eGtodUIzdDk0SWxGWW40QnZvNGFva0ZHTlVuaFYxK1ZycVZkRGN1eFBBN1htcVBiQ3d5Z3JCUT09Cg==",
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.7/Typing.Tutor_0.1.7_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYWpxV3Q1YUJ3eWdHRHMvTHdrNncxMEhyOUZRa2xzZnlxRDlVaTlWTmhCeHdIVm5yZUtxYlJQSjA1VTFCKzFoT0JPVUxIRHJNOVZCQUdWQlhkUDM0N1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI2NTQ3CWZpbGU6VHlwaW5nIFR1dG9yXzAuMS42X3g2NF9lbi1VUy5tc2kJdmVyc2lvbjowLjEuNgpZOXovWGdPcGpJYWxsZUYxaTFmQWJGc2ttbnV5UG96Sk93ZjZXenpBUWJOY1puQ1FUVGZYVUU0dmtQMCtRQkVSMHhwWHJqZ1ZmS0lKQXpzVUNuSGhCdz09Cg==",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.6/Typing.Tutor_0.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXB3eVpPdVFzdUY0UEFKZzhxa1JNWERma09ZeDlOUGplWjhSeHdzaU5lck9VQkVjU1o4dXZ0SFpObmlEZXpOTnJKOTZCOUV2UzJWSXBEOTFiTGdFSEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI3MTU5CWZpbGU6VHlwaW5nIFR1dG9yXzAuMS43X3g2NF9lbi1VUy5tc2kJdmVyc2lvbjowLjEuNwpZUk9xWWRYRlNiQkQwTkYxelRPWXdDRTM4NmdwY1FqaCs0VGoxYjBqdnZZQU5ueXJuVGVEa0pHcmd5QTJ6SW9yQ2xhb2tOb1dCR0NFdFZHVEdOemhCUT09Cg==",
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.7/Typing.Tutor_0.1.7_x64_en-US.msi"
     }
   }
 }
