@@ -1,19 +1,19 @@
 {
-  "version": "0.1.16",
-  "notes": "Typing Tutor v0.1.16: Decoupled SQLite operations from network I/O to eliminate UI freezes, with streamlined background cloud synchronization.",
-  "pub_date": "2026-10-24T18:15:15Z",
+  "version": "0.1.17",
+  "notes": "Typesmith v0.1.17: Official rebranding to Typesmith, enhanced multi-tenant kill-switch disambiguation, exact PC normalization, and real-time workstation name synchronization with PostgreSQL cloud platform.",
+  "pub_date": "2026-10-25T09:45:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXI4bHJUdm05Q0FRM2RCYUN1Q0dXRFJRRlUvYTFPTVdpNVAxSGROb2c1SFBTM1ZIRytWQ1o5WURrd0FON3ZuS3VSVVNUQXo4NXJFd3dtSlFUbElLTXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY1NjEzCWZpbGU6VHlwaW5nIFR1dG9yXzAuMS4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE2CmFCaDJUb0xMYmF4SlZOdXBna1FzSGM0TFBkZ0phVmMvNUZVSi9tcndQNzBBMEpxODVUT1FOd0N3MzU5QzBFcE4zVEVEbXpHRDNmMnh5NkFoMVpJZUFnPT0K",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.16/Typing.Tutor_0.1.16_x64-setup.exe"
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.17/Typesmith_0.1.17_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXI4bHJUdm05Q0FRM2RCYUN1Q0dXRFJRRlUvYTFPTVdpNVAxSGROb2c1SFBTM1ZIRytWQ1o5WURrd0FON3ZuS3VSVVNUQXo4NXJFd3dtSlFUbElLTXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY1NjEzCWZpbGU6VHlwaW5nIFR1dG9yXzAuMS4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE2CmFCaDJUb0xMYmF4SlZOdXBna1FzSGM0TFBkZ0phVmMvNUZVSi9tcndQNzBBMEpxODVUT1FOd0N3MzU5QzBFcE4zVEVEbXpHRDNmMnh5NkFoMVpJZUFnPT0K",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.16/Typing.Tutor_0.1.16_x64-setup.exe"
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.17/Typesmith_0.1.17_x64-setup.exe"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXBXcURKSzNXQ0xIb2FBUGZEOEV0bWNTaVJ0QWg1WUJHNEYzMStYOEtzODFnTU5ObjNUWXk5MTBKOXlyMFNKM0N1ZThFSENGeDkxVTl2R09WTk9LZVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY1NjI2CWZpbGU6VHlwaW5nIFR1dG9yXzAuMS4xNl94NjRfZW4tVVMubXNpCXZlcnNpb246MC4xLjE2CkRaQitSNERWZDBMczdtNFZZekx5OWZkVWNiQWdtUnN3cnhOa2gzVjk1bm5TSVlwUVdzbU9rQ1NxQ2YvcHp0NTVYbm5Sb1ZYM21XRFFYNlRkeFduSEJBPT0K",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.16/Typing.Tutor_0.1.16_x64_en-US.msi"
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.17/Typesmith_0.1.17_x64_en-US.msi"
     }
   }
 }
