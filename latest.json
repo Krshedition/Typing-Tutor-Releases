@@ -1,19 +1,19 @@
 {
-  "version": "0.1.18",
-  "notes": "Clack v0.1.18: Official rebranding to Clack, verified offline and multi-tenant lab key management, PC name normalization, and real-time cloud PostgreSQL sync.",
-  "pub_date": "2026-10-25T11:15:00Z",
+  "version": "0.1.19",
+  "notes": "Clack v0.1.19: Complete 40-lesson progressive curriculum across 4 levels (10 per level), Level 3 Expert paragraph punctuation progression, Level 4 Professional authentic Lorem Ipsum endurance training, and Apple-styled floating creator overlay.",
+  "pub_date": "2026-10-26T04:45:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXVuR1dhTGlvMUxwT1c4WnJtNGdFZUtnVjhCZkR3RWQ5dE5qbFMrVmQyM2xNZC91WTJtS25UeEh1NU4zbG9HZmhtQkhXYnVNR3d5WkUvNlovTWVUY2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI2OTUwCWZpbGU6Q2xhY2tfMC4xLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTgKNXRRVjdQT0VFQnd1QVZNQWcyV1pKWnNybUhZWC9JUWUvbGU4MWwxbW9XNzJNR3hFNVFoY1Y0eThTRkYxV1kzUC9GUWVGbmROREVDSUhiZFArclJvQnc9PQo=",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.18/Clack_0.1.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXVsclcrQVRta0hsZmtmOXN4Qk1rL1Y1Y01QR1BHQUhxZWlZYVVZR21Dc2RKdGFnZ3NhdU9seGFCdVpmU1djMmRRQkZHUGxFRFNGdFhxdHdyMjVHTUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTg5OTAyCWZpbGU6Q2xhY2tfMC4xLjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTkKYnZnT0lGZ0ltUVZNSmJ2RzJGdjRGQmk3RVFkWnRucGJkSG01Y3RuNUFvS2o4SGlITnBQRTJUb3d0VzgvMlNFUlVzSU0raVd5TytWZDNvMzE0S1dRQ2c9PQo=",
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.19/Clack_0.1.19_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXVuR1dhTGlvMUxwT1c4WnJtNGdFZUtnVjhCZkR3RWQ5dE5qbFMrVmQyM2xNZC91WTJtS25UeEh1NU4zbG9HZmhtQkhXYnVNR3d5WkUvNlovTWVUY2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI2OTUwCWZpbGU6Q2xhY2tfMC4xLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTgKNXRRVjdQT0VFQnd1QVZNQWcyV1pKWnNybUhZWC9JUWUvbGU4MWwxbW9XNzJNR3hFNVFoY1Y0eThTRkYxV1kzUC9GUWVGbmROREVDSUhiZFArclJvQnc9PQo=",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.18/Clack_0.1.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXVsclcrQVRta0hsZmtmOXN4Qk1rL1Y1Y01QR1BHQUhxZWlZYVVZR21Dc2RKdGFnZ3NhdU9seGFCdVpmU1djMmRRQkZHUGxFRFNGdFhxdHdyMjVHTUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTg5OTAyCWZpbGU6Q2xhY2tfMC4xLjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTkKYnZnT0lGZ0ltUVZNSmJ2RzJGdjRGQmk3RVFkWnRucGJkSG01Y3RuNUFvS2o4SGlITnBQRTJUb3d0VzgvMlNFUlVzSU0raVd5TytWZDNvMzE0S1dRQ2c9PQo=",
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.19/Clack_0.1.19_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYW1abjJEeFVVa2YzSExIclBqQmZhMSt1WkZnMlExUi9CL0xwTW1kc0xEL3gvdXdjTDJNRWh4Ulk4T2hMRzlRVVM0ZnBpZmFpQVZ1MGJwOTV2aE5ZNndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI2OTYwCWZpbGU6Q2xhY2tfMC4xLjE4X3g2NF9lbi1VUy5tc2kJdmVyc2lvbjowLjEuMTgKRjU1RUlWRlN0eEV3cDRPd0lYNmdJWWcweWFPU2d1cU16YmlhUVVXVTZDcFlmQXpBUmxvdWhHQytmai9mM1MxRTR3MzVpb3FVRkRqdHd3OGZnL0EvQWc9PQo=",
-      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.18/Clack_0.1.18_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWw4NzJLQnJRYXNLVk9KY1ZRZUxGOVUrVmtxV0d6anJNQ0F1anRmYkZJb1IxQTMxVkRRWE5VNUFlSUlnNjR6bXBtUG1lY1ZhN1ducGZsYTFCaGxIcEloMGY5dit3b0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTg5OTIwCWZpbGU6Q2xhY2tfMC4xLjE5X3g2NF9lbi1VUy5tc2kJdmVyc2lvbjowLjEuMTkKcVRBdW9iS2pPSFVvaDV3SFFiYTNQNS9JOXhNSmx1N0NFalQwemo0Z3ViMUF2ZnU1UGJFOHJadWo3TTdQNXdQbnAxK1UxbGk2dUlvQ1hXUENQa0dSQnc9PQo=",
+      "url": "https://github.com/Krshedition/Typing-Tutor-Releases/releases/download/v0.1.19/Clack_0.1.19_x64_en-US.msi"
     }
   }
 }
